@@ -1,4 +1,4 @@
-#!/Users/zhaozetian/PycharmProjects/SRMS/venv/bin/python3.11
+#!/Users/zhaozetian/PycharmProjects/SRMS/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
